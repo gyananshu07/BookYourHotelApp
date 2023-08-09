@@ -1,19 +1,17 @@
 {
   "expo": {
-    "name": "BookingRNApp",
-    "slug": "BookingRNApp",
+    "name": "BookYourHotel",
+    "slug": "BookYourHotel",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3168/3168683.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
